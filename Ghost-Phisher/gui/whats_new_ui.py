@@ -45,4 +45,4 @@ class Ui_Dialog(object):
         Dialog.setWindowTitle(QtGui.QApplication.translate("Dialog", "Whats New", None, QtGui.QApplication.UnicodeUTF8))
         self.whats_new_check.setText(QtGui.QApplication.translate("Dialog", "Dont show again until next update", None, QtGui.QApplication.UnicodeUTF8))
 
-from PyQt4 import QtWebKit
+#from PyQt4 import QtWebKit
